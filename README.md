@@ -4,3 +4,4 @@
 <a href="https://discordbots.org/bot/382005578030907393">Click here to invite Paradox to your Discord server.</a>
 <br><br>
 <img src="https://discordbots.org/api/widget/382005578030907393.png">
+<h3>Bot Commands</h3>
