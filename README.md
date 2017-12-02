@@ -4,6 +4,6 @@
 <a href="https://discordbots.org/bot/382005578030907393">Click here to invite Paradox to your Discord server.</a>
 <br><br>
 <h3>Bot Commands</h3>
-(Utility Commands)<r>
+(Utility Commands)<br>
 <b>.help, .ping, .about, .invite, .stats, .serverinfo, .userinfo, .avatar</b>
 <img src="https://discordbots.org/api/widget/382005578030907393.png">
