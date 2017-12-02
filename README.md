@@ -13,5 +13,5 @@
 (Fun Commands)<br>
 <b>.snowball, .rps, .hug, .cointoss, .osu, .roblox, .mcserver, .mcavatar, .mcskin, .achievement, .dog, .catfact</b><br>
 (Meme Commands)<br>
-<b>.lenny, .shrug, .smiling, .wink, .fliptable, .puttableback, .middlefinger</b><br>
+<b>.lenny, .shrug, .smiling, .wink, .fliptable, .puttableback, .middlefinger</b><br><br>
 <img src="https://discordbots.org/api/widget/382005578030907393.png">
